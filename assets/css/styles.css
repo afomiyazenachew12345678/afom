@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+  header{
+    background-color: rgb(197, 246, 231);
+    padding: 25px 0;
+
+}
+ header h1{
+    text-align: center;
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+    padding: 0 30%;
+    text-decoration: none ;
+    list-style: none;
+    li a{
+        color: rgb(42, 173, 92);
+        front color: ;
+}
+}
